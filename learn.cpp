@@ -1,0 +1,1 @@
+count<<"hi all"<<endl;
